@@ -1,4 +1,4 @@
-package com.ead.course.service;
+package com.ead.course.services;
 
 import com.ead.course.models.ModuleModel;
 import org.springframework.data.domain.Page;
